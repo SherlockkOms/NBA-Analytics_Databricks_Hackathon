@@ -4,6 +4,8 @@
 
 Welcome to our NBA Analytics Hackathon project, organized by Compass Analytics and Databricks. Our aim was to utilize historical play-by-play data dating back to 1996 to predict NBA score margins for the 2022-2023 season. Participants collaborated as Data Engineers, Data Analysts, and Data Scientists, journeying through the entire data analytics pipeline.
 
+And yes, our team won the Hackathon! :blush: :heart:
+
 ## Data 
 
 **Sources:**
